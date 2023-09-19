@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj": {}
+    "c:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj": {
+    "c:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj",
         "projectName": "Examle001_HelloConsole",
-        "projectPath": "C:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\Examle001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\zombe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\zombe\\Desktop\\lessons\\Examples\\Examle001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zombe\\AppData\\Roaming\\NuGet\\NuGet.Config"
